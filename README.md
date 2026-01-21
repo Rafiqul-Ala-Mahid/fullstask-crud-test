@@ -2,11 +2,6 @@
 
 A full-stack student management application built with React, Node.js, Express, and MongoDB.
 
-## Live Demo
-
-- **Frontend:** [https://fullstask-crud-test-frontend.vercel.app](https://fullstask-crud-test-frontend.vercel.app)
-- **Backend API:** [https://fullstask-crud-test.vercel.app/api](https://fullstask-crud-test.vercel.app/api)
-
 ## Tech Stack
 
 ### Frontend
